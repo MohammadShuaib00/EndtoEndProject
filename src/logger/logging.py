@@ -14,8 +14,6 @@ os.makedirs(log_path, exist_ok=True)
 # Combine the log directory path with the log file name
 LOG_FILEPATH = os.path.join(log_path, LOG_FILE)
 
-# Print the full path to the log file
-print("Log file path:", LOG_FILEPATH)
 
 # Configure logging
 logging.basicConfig(
