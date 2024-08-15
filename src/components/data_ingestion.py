@@ -53,7 +53,7 @@ class DataIngestion:
             raise CustomException(e, sys)
 
 
-if __name__ == "__main__":
-    obj = DataIngestion()
+# if __name__ == "__main__":
+#     obj = DataIngestion()
 
-    obj.initate_data_ingestion()
+#     obj.initate_data_ingestion()

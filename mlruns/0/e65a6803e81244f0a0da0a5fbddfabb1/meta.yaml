@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EndtoEndProject/mlruns/0/e65a6803e81244f0a0da0a5fbddfabb1/artifacts
+end_time: 1723653350675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e65a6803e81244f0a0da0a5fbddfabb1
+run_name: magnificent-gnat-237
+run_uuid: e65a6803e81244f0a0da0a5fbddfabb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723653339394
+status: 3
+tags: []
+user_id: moham

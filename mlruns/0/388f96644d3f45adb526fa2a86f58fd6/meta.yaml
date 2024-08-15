@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EndtoEndProject/mlruns/0/388f96644d3f45adb526fa2a86f58fd6/artifacts
+end_time: 1723694665435
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 388f96644d3f45adb526fa2a86f58fd6
+run_name: bustling-auk-644
+run_uuid: 388f96644d3f45adb526fa2a86f58fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723694657002
+status: 3
+tags: []
+user_id: moham
