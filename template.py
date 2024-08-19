@@ -23,7 +23,7 @@ list_of_files = [
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "experiment/experiments.ipynb"
+    "experiment/experiments.ipynb",
 ]
 
 for filepath in list_of_files:
@@ -33,8 +33,8 @@ for filepath in list_of_files:
     # Create directories if they don't exist
     if filedir:
         os.makedirs(filedir, exist_ok=True)
-    
+
     # Create the file if it doesn't exist or is empty
     if not filepath.exists() or filepath.stat().st_size == 0:
-        with open(filepath, 'w') as f:
+        with open(filepath, "w") as f:
             pass

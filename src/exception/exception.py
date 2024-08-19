@@ -1,9 +1,14 @@
 import sys
 
+
 class CustomException(Exception):
     def __init__(self, error_message, error_details: sys):
         self.error_message = error_message
-        _, _, exc_tb = (
+        (
+            _,
+            _,
+            exc_tb,
+        ) = (
             error_details.exc_info()
         )  # A traceback object that provides detailed information about where the exception occurred.
 

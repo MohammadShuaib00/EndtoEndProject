@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/EndtoEndProject/mlruns/0/000e19b029e349289eca9d4a20a78507/artifacts
+end_time: 1724082002820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 000e19b029e349289eca9d4a20a78507
+run_name: gregarious-flea-429
+run_uuid: 000e19b029e349289eca9d4a20a78507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724081990548
+status: 3
+tags: []
+user_id: moham
